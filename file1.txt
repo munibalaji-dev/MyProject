@@ -1,3 +1,2 @@
 This is file one
-This is from feat branch
-This is from master branch
+This is second commit from master branch
